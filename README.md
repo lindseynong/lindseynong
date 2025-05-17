@@ -27,9 +27,6 @@ I enjoy experimenting with blockchain protocols and building protective layers t
 
 Feel free to explore my repos, fork a project, or drop an issue. I'm always open to meaningful collaboration. 🙌
 
-
-🛠️ *Open-source advocate | Security-aware coder | Building for a decentralized future*
-
 ![Open-source Advocate](https://img.shields.io/badge/Open--source%20Advocate-blue?style=for-the-badge)
 ![Security-aware Coder](https://img.shields.io/badge/Security--aware%20Coder-brightgreen?style=for-the-badge)
 ![Decentralized Future](https://img.shields.io/badge/Building%20for%20the%20Future-purple?style=for-the-badge)
