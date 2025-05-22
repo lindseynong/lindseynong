@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Lindsey Nong
+# 👋 Hey there, I'm Brandon Rezko
 
 I'm a blockchain developer focused on building secure and scalable solutions on the **Solana** network. I specialize in smart contract development and on-chain protection strategies that help safeguard users from common crypto threats. ⚙️🔒
 
