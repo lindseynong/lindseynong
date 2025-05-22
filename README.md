@@ -17,7 +17,7 @@ I'm currently involved in projects that aim to **strengthen crypto security** an
 
 ## 📫 Connect with Me
 
-- 📩 Email: [lindsey.nong@protonmail.com](mailto:lindsey.nong@protonmail.com)
+- 📩 Email: [brendon.rezko@protonmail.com](mailto:lindsey.nong@protonmail.com)
 
 
 ## 💡 Fun Fact
